@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+[![Rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/musemosmouses/roast-nayyy/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+[![Reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/musemosmouses/roast-nayyy/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+
 # Roast Your Own Agent
 
 Entry for the make.fun bounty `u-nayyy-roast-your-own-agent-4c3d413c`
